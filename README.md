@@ -1,2 +1,2 @@
 # CONTACT-BOOK-MANAGEMENT
-The primary purpose of the Contact Book Management is implementation of a linked list data structure within the context of this data structure and algorithm (DSA) project has proven to be a strategic choice for efficient and dynamic contact book management.
+The central objective of the Contact Book Management system is to seamlessly integrate a linked list data structure, demonstrating a judicious selection within the realm of this Data Structures and Algorithms (DSA) project. This strategic choice has emerged as instrumental in achieving both efficiency and dynamism in the management of contact information.
